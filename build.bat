@@ -1,0 +1,1 @@
+uglifycss ./styles/main.css > ./styles/main.min.css && uglifycss ./styles/reset.css > ./styles/reset.min.css
